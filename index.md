@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## smalltalks
 
-You can use the [editor on GitHub](https://github.com/mmcwong/smalltalks-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://user-images.githubusercontent.com/3145745/176267524-7b8c2e6d-93cb-4e73-a094-23bd58256f61.png" width="300"/><img src="https://user-images.githubusercontent.com/3145745/176268798-bdee26b7-db57-41b0-bbfe-3bdd37db176b.png" width="300"/><img src="https://user-images.githubusercontent.com/3145745/176268815-343ade29-2c79-43e3-9318-a24c64437bc5.png" width="300"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mmcwong/smalltalks-site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Tired of endless small talk about the weather, shopping, or sports? Skip the polite conversation and build more meaningful connections! smalltalks is a collection of prompts and topics that help facilitate deeper, more open dialogue. There are question, quote, and image cards to take any conversation to the next level. Whether it's with a few acquaintances, the BFF, or just yourself, there's something for all relationships. Available now on the [App Store](https://apps.apple.com/us/app/airbnb/id1631769182) and [Google Play](https://play.google.com/store/apps/details?id=com.smalltalks). 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Questions? Reach out at smalltalks.apps@gmail.com
+
+[Privacy Policy](https://www.freeprivacypolicy.com/live/61883219-dfd2-4c00-8526-57b8ff2f73fe)
